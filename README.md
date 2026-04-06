@@ -4,13 +4,13 @@
 
 - 🔭 I'm currently working on **a movie android app and a exoplant simulator project**
 
-- 🌱 I'm currently learning **Android and jetpack compose **
+- 🌱 I'm currently learning **Android and jetpack compose**
 
-- 👯 I'm looking to collaborate on **On Google colab summer code **
+- 👯 I'm looking to collaborate on **On Google colab summer code**
 
-- 🤝 I'm looking for help with **Learning machine learning **
+- 🤝 I'm looking for help with **Learning machine learning**
 
-- 💬 Ask me about **Java, kotlin, Android,  jetpack compose **
+- 💬 Ask me about **Java, kotlin, Android,  jetpack compose**
 
 - 📫 How to reach me **alyaaabelal@gmail.com**
 
